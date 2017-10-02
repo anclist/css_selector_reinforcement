@@ -1,0 +1,15 @@
+p {
+  color: #0075AC;
+}
+
+a:hover {
+  color: #D5787A;
+}
+
+h1 {
+  font-size: 3.3em;
+}
+
+.bears-li {
+  display: inline-block;
+}
